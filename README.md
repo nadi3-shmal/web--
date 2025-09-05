@@ -1,1 +1,1 @@
-My name is Nadia. I am 19 
+ I am 19 
