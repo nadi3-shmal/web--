@@ -13,9 +13,12 @@
         let b = parseInt(prompt("Enter b"));
         let c = Math.sqrt (a*a + b*b) / 2;
         let S = (a*b) / 2;
+        let F = (a*4);
         
         console.log("Довжина гіпотенузи: "+c);
         console.log("Площа прямокутного трикутника: "+S);
+        console.log("периметр: "+F);
+        
     </script>
 </body>
 </html>
