@@ -11,6 +11,7 @@
         // alert("Hello, World!");
         let a = parseInt(prompt("Enter a"));
         let b = parseInt(prompt("Enter b"));
+        let x = parseInt(prompt("Enter x"));
         let c = Math.sqrt (a*a + b*b) / 2;
         let S = (a*b) / 2;
         let F = (a*4);
