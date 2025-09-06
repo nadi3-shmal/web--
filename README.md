@@ -12,13 +12,12 @@
         let a = parseInt(prompt("Enter a"));
         let b = parseInt(prompt("Enter b"));
         let x = parseInt(prompt("Enter x"));
-        let o = parseInt(prompt("Enter o"));
         let c = Math.sqrt (a*a + b*b) / 2;
         let S = (a*b) / 2;
         let F = (a*4);
         let M = (a*x);
-        let K = (a =o)
-        (b=a)
+        let K = (a =o);
+        (b=a);
         (o=b);
         
        
