@@ -16,7 +16,8 @@
         let S = (a*b) / 2;
         let F = (a*4);
         let M = (a*x);
-        let K =(a=x) (b=a) (x=b);
+        let K =(a=b) 
+        (b=a);
         
     
         console.log("Площа прямокутного трикутника: "+S);
