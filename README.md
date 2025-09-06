@@ -17,7 +17,7 @@
         let S = (a*b) / 2;
         let F = (a*4);
         let M = (a*x);
-        let K = (a=o)
+        let K = (a =o)
         (b=a)
         (o=b);
         
