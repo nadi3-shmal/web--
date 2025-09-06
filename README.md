@@ -15,14 +15,14 @@
         let S = (a*b) / 2;
         let F = (a*4);
         let M = (a*x);
-        let D = (c=a,b=c);
+       
 
         
         console.log("Довжина гіпотенузи: "+c);
         console.log("Площа прямокутного трикутника: "+S);
-        console.log("периметр: "+F);
-        console.log("власне занчення : "+M);
-        console.log("значення двох додаткових замін: "+D);
+        console.log("Периметр: "+F);
+        console.log("Значення збільшене в" +x+:  "+M);
+       
         
 
         
