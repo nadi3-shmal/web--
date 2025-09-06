@@ -18,14 +18,11 @@
         let M = (a*x);
        
 
-        
         console.log("Довжина гіпотенузи: "+c);
         console.log("Площа прямокутного трикутника: "+S);
         console.log("Периметр: "+F);
         console.log("Значення збільшене в:  "+M);
        
-        
-
         
     </script>
 </body>
